@@ -9,3 +9,16 @@ Image Classification can be solved with the help of a Convolutional Neural Netwo
 2. ReLU Layers
 3. Pooling Layers
 4. Fully connected Layers
+
+# Example on Dataset
+
+Go through the 1st [Example](https://github.com/shubhamjain02/Deep-Learning-Projects/blob/master/1.%20Cat%20Dog%20Classification/Cat_Dog_usingCNN.ipynb) notebook to see an example.
+You can also test-run the example on Google Colaboratory by clicking the following button.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shubhamjain02/Deep-Learning-Projects/blob/master/1.%20Cat%20Dog%20Classification/Cat_Dog_usingCNN.ipynb)
+
+# Issues
+
+If you encounter any issue or have a feedback, please don't hesitate to [raise an issue](https://github.com/shubhamjain02/Deep-Learning-Projects/issues).
+
+# Updates
