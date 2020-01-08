@@ -1,0 +1,15 @@
+# Usage
+
+1. Download the following files and keep them in a same folder.
+    *  model.pkl
+    *  app.py
+    *  style.css
+    *  index.html
+
+2. Open Annaconda Prompt in your computer and set the working directory as the folder which contain your files.
+
+3. Execute **python app.py** .
+
+4. Copy the URL and open it in browser.
+
+5. See the Predictions by entering the Data at real time. 
