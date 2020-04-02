@@ -25,10 +25,5 @@ Different approaches to text classification model:
 
 ## Example on Dataset
 
-1. Go through the 1st [Example](https://github.com/shubhamjain02/Customer_Segmentation/blob/master/FinalCustomer_Segmentation.ipynb) notebook to see an example where this model is used on the [dataset](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python) provided by Kaggle.
-
-You can also test-run the example on Google Colaboratory by clicking the following button.
-
-[Open In Colab](https://colab.research.google.com/github/shubhamjain02/Customer_Segmentation/blob/master/FinalCustomer_Segmentation.ipynb)
-
+1. Go through the [Example](https://github.com/shubhamjain02/Deep-Learning-Projects/blob/master/Text_Classification/text_classification_example.ipynb) notebook to see an example where this model is used on the dataset give by the company Mylo.
 
