@@ -25,5 +25,5 @@ Different approaches to text classification model:
 
 ## Example on Dataset
 
-1. Go through the [Example](https://github.com/shubhamjain02/Deep-Learning-Projects/blob/master/Text_Classification/text_classification_example.ipynb) notebook to see an example where this model is used on the dataset give by the company Mylo.
+Go through the [Example](https://github.com/shubhamjain02/Deep-Learning-Projects/blob/master/Text_Classification/text_classification_example.ipynb) notebook to see an example where this model is used on the dataset give by the company Mylo.
 
