@@ -15,7 +15,7 @@ Image Classification can be solved with the help of a Convolutional Neural Netwo
 Go through the [Cat_Dog_usingCNN](https://github.com/shubhamjain02/Deep-Learning-Projects/blob/master/1.%20Cat%20Dog%20Classification/Cat_Dog_usingCNN.ipynb) notebook to see the solved problem.
 You can also test-run the example on Google Colaboratory by clicking the following button.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shubhamjain02/Deep-Learning-Projects/blob/master/1.%20Cat%20Dog%20Classification/Cat_Dog_usingCNN.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1F_T0QOR2o3GIWbbpJn8PcDBlmwdxHA--)
 
 # Issues
 
